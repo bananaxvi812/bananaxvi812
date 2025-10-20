@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="picture/20251020_1910_Banana Beach Vibe_remix_01k80z79wceg2t3m1mt8bhytq8.png" style="width:100%;height:200px; object-fit:cover;" />
+  <img src="picture/20251020_1910_Banana Beach Vibe_remix_01k80z79wceg2t3m1mt8bhytq8.png" style="width:100%;height=300" />
 </p>
 
 <h1 align="center">🐍 Скрипты и Боты от banan812</h1>
