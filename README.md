@@ -5,7 +5,7 @@
 <div align="center">
 
 ### (⊙_⊙)
-<img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,postgresql,mongodb,redis,selenium,requests&perline=4&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,sqlite,postgresql,mongodb,powershell,lua,shell&perline=8&theme=dark" />
 
 </div>
 
