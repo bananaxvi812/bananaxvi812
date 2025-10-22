@@ -12,7 +12,7 @@
 <div align="center">
 
 ### ♡( ◡‿◡ )
-<img src="https://skillicons.dev/icons?i=с,cpp,rust,asm&perline=4&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,zig&perline=4&theme=dark" />
 
 </div>
 
