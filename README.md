@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="picture/banner.jpg" style="width:100%;" />
+    <img src="picture/banner1.jpg" style="width:100%;"/>
 </p>
 
 <div align="center">
@@ -12,7 +12,7 @@
 <div align="center">
 
 ### 📊 GitHub Stats 📊
-<img src="https://github-readme-stats.vercel.app/api?username=bananaxvi812&show_icons=true&bg_color=FFD966&text_color=333333&icon_color=FF8C00&title_color=333333"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bananaxvi812&show_icons=true&bg_color=000080&text_color=FFFFFF&icon_color=FF8C00&title_color=FFFFFF"/>
 
 </div>
 
